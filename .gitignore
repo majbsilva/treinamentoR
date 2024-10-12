@@ -1,0 +1,45 @@
+# Arquivos de cache e de dados gerados pelo R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Arquivos de log e cache
+.Rapp.history
+.Rproj.user/
+.Rhistory
+.Rdata
+.Ruserdata
+*.Rproj
+*.Rhistory
+*.Rdata
+
+# Arquivos temporários e resultados intermediários
+*.o
+*.so
+*.dll
+*.out
+
+# Diretórios de bibliotecas e pacotes instalados localmente
+.RLibrary/
+.Rlibs/
+.Rtemp/
+
+# Arquivos de build e compilação
+*.log
+*.aux
+*.out
+*.tex
+*.pdf
+*.html
+
+# Dados grandes e de saída
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.rds
+
+# Outros arquivos temporários ou sensíveis
+.DS_Store
+Thumbs.db
